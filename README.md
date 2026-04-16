@@ -2,6 +2,40 @@
 
 A comprehensive Python toolkit for analyzing and visualizing building environmental data, including temperature and relative humidity measurements. This project provides multiple visualization approaches ranging from standard plots to advanced thermal comfort analysis based on ASHRAE 55 standards.
 
+## 🖼️ Example Visualizations
+
+### Basic Temperature Analysis
+![Temperature Plots](calgary-can-epw/temperature_plots.png)
+*Scatter plot and time series showing operative vs outdoor temperature with comfort bands*
+
+### Comprehensive Analysis
+![Fancy Analysis 1](calgary-can-epw/fancy_analysis_1.png)
+*Density plots, monthly averages, and comfort zone analysis*
+
+![Fancy Analysis 2](calgary-can-epw/fancy_analysis_2.png)
+*3D visualizations and distribution histograms*
+
+![Fancy Analysis 3](calgary-can-epw/fancy_analysis_3.png)
+*Temporal heatmaps showing hourly patterns throughout the year*
+
+### Creative Visualizations
+![Creative Analysis 1](calgary-can-epw/creative_analysis_1.png)
+*Ripple plots and stream graphs showing comfort distribution*
+
+![Creative Analysis 2](calgary-can-epw/creative_analysis_2.png)
+*Polar and radial plots for hour-of-day analysis*
+
+![Creative Analysis 3](calgary-can-epw/creative_analysis_3.png)
+*Parallel coordinates and correlation matrix*
+
+### Ridgeline Plots
+![Ridgeline Plots](calgary-can-epw/ridgeline_plots.png)
+*Monthly distribution comparisons for all environmental variables*
+
+### Thermal Comfort Analysis
+![CBE Comfort Analysis](calgary-can-epw/cbe_comfort_analysis.png)
+*PMV/PPD analysis based on ASHRAE 55 standards*
+
 ## 📊 Overview
 
 This repository contains scripts for analyzing 8760 hours (one full year) of building environmental data:
